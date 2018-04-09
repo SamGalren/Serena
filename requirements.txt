@@ -1,3 +1,5 @@
 discord.py
 asyncio
 datetime
+
+client.run("NDMxOTU5MDU0ODE5MDAwMzIx.Da0_mQ.HYJheOK6jZYI94DBahQmqS-zhKQ")
