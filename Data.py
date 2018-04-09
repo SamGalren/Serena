@@ -69,4 +69,4 @@ async def on_message(message):
                                                                   "I know that i am a genious but.. come on.. :8ball:",]))    
   
         
-client.run("NDMxOTU5MDU0ODE5MDAwMzIx.Da0_mQ.HYJheOK6jZYI94DBahQmqS-zhKQ")
+client.run("NDMxOTU5MDU0ODE5MDAwMzIx.Da1bJw.CyTkZJGoPyriK45tsyuPxXolMcI")
