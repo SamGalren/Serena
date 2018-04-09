@@ -1,1 +1,1 @@
-python data.py
+python Data.py
