@@ -1,0 +1,13 @@
+import discord
+import asyncio
+import random
+client = discord.Client()
+
+@client.event
+async def on_ready():
+    print("Logged in as:")
+    print(client.user.name)
+    print(client.user.id)
+    print("Greetings. I am Kaliana Serena Andres, people know me as Serena")
+
+client.run("NDMxOTU5MDU0ODE5MDAwMzIx.Da0_mQ.HYJheOK6jZYI94DBahQmqS-zhKQ")
